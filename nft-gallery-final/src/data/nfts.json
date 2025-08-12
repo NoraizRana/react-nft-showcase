@@ -1,0 +1,213 @@
+[
+  {
+    "id": "nft-001",
+    "title": "Chromatic Bloom",
+    "artist": {
+      "id": "artist-01",
+      "name": "Ayesha Khan"
+    },
+    "image": {
+      "src": "https://plus.unsplash.com/premium_photo-1667340456421-e39b77a25217?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hyb21hdGljJTIwYmxvb218ZW58MHx8MHx8fDA%3D"
+    },
+    "price": 2.5,
+    "currency": "ETH",
+    "description": "Generative art exploring color harmonies.",
+    "category": "Abstract",
+    "tags": [
+      "generative",
+      "color",
+      "abstract"
+    ],
+    "createdAt": "2024-11-10T12:00:00Z",
+    "externalUrl": "https://example.com/nft-001"
+  },
+  {
+    "id": "nft-002",
+    "title": "Neon Cityscape",
+    "artist": {
+      "id": "artist-02",
+      "name": "Shayan Ali"
+    },
+    "image": {
+      "src": "https://images.unsplash.com/photo-1616394158624-a2ba9cfe2994?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TmVvbiUyMENpdHlzY2FwZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    "price": 1.8,
+    "currency": "ETH",
+    "description": "A glowing city at night.",
+    "category": "City",
+    "tags": [
+      "city",
+      "neon"
+    ],
+    "createdAt": "2024-10-21T09:00:00Z",
+    "externalUrl": "https://example.com/nft-002"
+  },
+  {
+    "id": "nft-003",
+    "title": "Galaxy Cat",
+    "artist": {
+      "id": "artist-03",
+      "name": "Sofia Rai"
+    },
+    "image": {
+      "src": "https://images.unsplash.com/photo-1607496220321-0c71c2fdbffb?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8R2FsYXh5JTIwQ2F0fGVufDB8fDB8fHww"
+    },
+    "price": 0.9,
+    "currency": "ETH",
+    "description": "A cosmic feline exploring the stars.",
+    "category": "Photography",
+    "tags": [
+      "cat",
+      "galaxy"
+    ],
+    "createdAt": "2024-09-15T15:30:00Z",
+    "externalUrl": "https://example.com/nft-003"
+  },
+  {
+    "id": "nft-004",
+    "title": "Pixel Samurai",
+    "artist": {
+      "id": "artist-04",
+      "name": "Junaid Safdar"
+    },
+    "image": {
+      "src": "https://images.unsplash.com/photo-1549985908-e20350bd6781?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UGl4ZWwlMjBTYW11cmFpfGVufDB8fDB8fHww"
+    },
+    "price": 3.2,
+    "currency": "ETH",
+    "description": "A warrior from the pixel past.",
+    "category": "Pixel",
+    "tags": [
+      "pixel",
+      "samurai"
+    ],
+    "createdAt": "2024-08-05T11:20:00Z",
+    "externalUrl": "https://example.com/nft-004"
+  },
+  {
+    "id": "nft-005",
+    "title": "Aurora Fields",
+    "artist": {
+      "id": "artist-05",
+      "name": "Maya Hashim"
+    },
+    "image": {
+      "src": "https://images.unsplash.com/photo-1465146411845-99e7ab1f3488?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QXVyb3JhJTIwRmllbGRzfGVufDB8fDB8fHww"
+    },
+    "price": 1.1,
+    "currency": "ETH",
+    "description": "Soft gradients and flowing lines reminiscent of northern lights.",
+    "category": "Landscape",
+    "tags": [
+      "aurora",
+      "landscape"
+    ],
+    "createdAt": "2024-07-01T08:00:00Z",
+    "externalUrl": "https://example.com/nft-005"
+  },
+  {
+    "id": "nft-006",
+    "title": "Retro Vibes",
+    "artist": {
+      "id": "artist-06",
+      "name": "Bahzad Khan"
+    },
+    "image": {
+      "src": "https://images.unsplash.com/photo-1616659278861-870581e03ada?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8UmV0cm8lMjBWaWJlc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    "price": 0.75,
+    "currency": "ETH",
+    "description": "Warm retro palette with grain textures.",
+    "category": "Retro",
+    "tags": [
+      "retro",
+      "vintage"
+    ],
+    "createdAt": "2024-06-12T10:00:00Z",
+    "externalUrl": "https://example.com/nft-006"
+  },
+  {
+    "id": "nft-007",
+    "title": "Synthwave Horizon",
+    "artist": {
+      "id": "artist-07",
+      "name": "Abdul Ahad"
+    },
+    "image": {
+      "src": "https://images.unsplash.com/photo-1673264699019-c777a036a666?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3ludGh3YXZlJTIwSG9yaXpvbnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    "price": 2.9,
+    "currency": "ETH",
+    "description": "Vibrant synthwave inspired scene with neon gridlines.",
+    "category": "Abstract",
+    "tags": [
+      "synthwave",
+      "neon"
+    ],
+    "createdAt": "2024-05-20T13:00:00Z",
+    "externalUrl": "https://example.com/nft-007"
+  },
+  {
+    "id": "nft-008",
+    "title": "Ceramic Dreams",
+    "artist": {
+      "id": "artist-08",
+      "name": "Ibrahim Noor"
+    },
+    "image": {
+      "src": "https://images.unsplash.com/photo-1557644978-f61037cfbe49?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2VyYW1pYyUyMERyZWFtc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    "price": 1.4,
+    "currency": "ETH",
+    "description": "Studio photo of modern ceramic art.",
+    "category": "Photography",
+    "tags": [
+      "ceramic",
+      "studio"
+    ],
+    "createdAt": "2024-04-11T09:30:00Z",
+    "externalUrl": "https://example.com/nft-008"
+  },
+  {
+    "id": "nft-009",
+    "title": "Fractal Bloom",
+    "artist": {
+      "id": "artist-09",
+      "name": "Zara Sabir"
+    },
+    "image": {
+      "src": "https://plus.unsplash.com/premium_photo-1664640458482-23df72d8b882?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZnJhY3RhbCUyMGJsb29tfGVufDB8fDB8fHww"
+    },
+    "price": 4.0,
+    "currency": "ETH",
+    "description": "High-detail fractal generative composition.",
+    "category": "Generative",
+    "tags": [
+      "fractal",
+      "generative"
+    ],
+    "createdAt": "2024-03-02T12:00:00Z",
+    "externalUrl": "https://example.com/nft-009"
+  },
+  {
+    "id": "nft-010",
+    "title": "Minimal Forms",
+    "artist": {
+      "id": "artist-10",
+      "name": "Omar Ali"
+    },
+    "image": {
+      "src": "https://images.unsplash.com/photo-1525465506244-dbc4f9638b42?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TWluaW1hbCUyMEZvcm1zfGVufDB8fDB8fHww"
+    },
+    "price": 0.6,
+    "currency": "ETH",
+    "description": "Minimal sculptural forms photographed in studio.",
+    "category": "Photography",
+    "tags": [
+      "minimal",
+      "sculpture"
+    ],
+    "createdAt": "2024-02-14T07:30:00Z",
+    "externalUrl": "https://example.com/nft-010"
+  }
+]
